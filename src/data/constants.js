@@ -512,7 +512,7 @@ export const projects = [
     "COVID-19",
     "Analytics"
   ],
-  category: "Machine Learning",
+  category: "machine Learning",
   github: "https://github.com/sumanthgubbala/CODTECH_Internship_projects/tree/master/Task%203",
   webapp: "", // leave empty or link to a shared Power BI report if public
 },
