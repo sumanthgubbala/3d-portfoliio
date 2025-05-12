@@ -125,11 +125,11 @@ const Projetcs = () => {
                 </ToggleButton>
                 </ToggleButtonGroup>
                 <CardContainer>
-                    {toggle === "all" && projects.map((project) =><ProjectCard project={project}>hi</ProjectCard>)}
+                    {toggle === "all" && projects.map((project) =><ProjectCard key={project.id} project={project}>hi</ProjectCard>)}
                     {projects
                         .filter((item) => item.category === toggle)
                         .map((project) => (
-                        <ProjectCard project={project} />
+                        <ProjectCard key={project.id} project={project} />
                     ))}
                 </CardContainer>
 
