@@ -409,7 +409,7 @@ export const education = [
     date: "Apr 2011 - Apr 2016",
     grade: "61.3%",
     desc: "I completed my class 10 education at Z P High School, Meenavilluru.",
-    degree: "X cCass",
+    degree: "X Class",
   },
 ];
 
