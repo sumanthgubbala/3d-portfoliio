@@ -437,7 +437,7 @@ export const projects = [
 ,{
   id: 12,
   title: "Resume Advisor AI",
-  date: "March 2025 - April 2025",
+  date: "April 2025 - May 2025",
   description:
     "Developed a GenAI-powered career advisory web app that analyzes uploaded PDF resumes and provides personalized job-matching advice. Enabled natural language queries and resume–job description comparisons using vector embeddings, significantly enhancing career guidance. Built using Python, Streamlit, LangChain, Gemma 3:1B, ChromaDB, and Ollama.",
   image:
@@ -457,7 +457,7 @@ export const projects = [
 {
   id: 13,
   title: "Disease Prediction using Machine Learning",
-  date: "Feb 2025 - March 2025",
+  date: "May 2024 - June 2024",
   description:
     "Built a disease prediction system that analyzes patient health data to predict potential illnesses using machine learning algorithms like Random Forest and Logistic Regression. The system enhances early diagnosis by classifying symptoms with high accuracy and provides actionable insights for healthcare providers. Developed using Python, Pandas, Scikit-learn, and Streamlit for an interactive interface.",
   image:
@@ -479,11 +479,11 @@ export const projects = [
 {
   id: 14,
   title: "MCQgenAI",
-  date: "April 2025 - May 2025",
+  date: "June 2024 - July 2024",
   description:
     "Developed MCQgenAI, an AI-powered web application that automatically generates multiple-choice questions from educational content. The tool leverages advanced natural language processing and machine learning algorithms to analyze study materials and create high-quality quiz questions along with plausible distractors, streamlining assessment creation. Built using Python, Streamlit, LangChain, and GPT-based models, MCQgenAI empowers educators and learners to efficiently generate practice tests and study aids.",
   image:
-    "https://github.com/sumanthgubbala/mcqgenai/blob/master/output.jpg", // update with your actual image link if available
+    "https://github.com/sumanthgubbala/mcqgenai/assets/127339877/f1196849-dd5e-4d7a-8f64-117c56496e02", // update with your actual image link if available
   tags: [
     "Python",
     "Streamlit",
@@ -500,11 +500,11 @@ export const projects = [
 {
   id: 15,
   title: "COVID-19 Data Visualization Dashboard",
-  date: "Dec 2024 - Jan 2025",
+  date: "Feb 2025 - March 2025",
   description:
     "Designed an interactive Power BI dashboard to visualize global COVID-19 data, enabling users to explore trends in confirmed cases, deaths, and recoveries across countries and time periods. Implemented slicers, filters, and dynamic charts to support real-time analysis and regional comparisons. The dashboard enhances data-driven decision-making through clear, insightful visual storytelling.",
   image:
-    "https://github.com/sumanthgubbala/CODTECH_Internship_projects/blob/master/Task%203/output.jpg", // replace with actual image link if available
+    "https://github.com/user-attachments/assets/f34e56ce-f1a3-4b6a-b9ba-9570b5584053", // replace with actual image link if available
   tags: [
     "Power BI",
     "Data Visualization",
