@@ -5,7 +5,7 @@ import * as random from "maath/random/dist/maath-random.esm";
 import styled from "styled-components";
 
 const StyledCanvasWrapper = styled.div`
- position: fixed;
+  position: fixed;
   top: 0;
   left: 0;
     width: 100%;
