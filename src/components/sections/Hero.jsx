@@ -244,7 +244,7 @@ const Hero = () => {
             Check Resume 
           </ResumeButton>
           </HeroLeftContainer>
-          <HeroRightContainer style={{ paddingRight: "20px" }}>
+          <HeroRightContainer style={{ paddingRight: "50px" }}>
           <motion.div {...headContentAnimation}>
             <Tilt>
                 <Img  src={HeroImg} alt='Sumanth ' />
