@@ -461,7 +461,7 @@ export const projects = [
   description:
     "Built a disease prediction system that analyzes patient health data to predict potential illnesses using machine learning algorithms like Random Forest and Logistic Regression. The system enhances early diagnosis by classifying symptoms with high accuracy and provides actionable insights for healthcare providers. Developed using Python, Pandas, Scikit-learn, and Streamlit for an interactive interface.",
   image:
-    "https://private-user-images.githubusercontent.com/127339877/346353037-11b6ec15-a89d-4f7d-8bc6-f8a55e28104e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwNDc5MDEsIm5iZiI6MTc0NzA0NzYwMSwicGF0aCI6Ii8xMjczMzk4NzcvMzQ2MzUzMDM3LTExYjZlYzE1LWE4OWQtNGY3ZC04YmM2LWY4YTU1ZTI4MTA0ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxMlQxMTAwMDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZDM5OTk1Zjg0ZGY1NWY4MTkzOTY4ZTRlYzhkNzU0YjBiMTQ2NDIwOTIxMGUzOTczMjI1MjNjMDFkYjkzNDMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TSDg-l_jepDssys7Fsfmp3czIu89_rIrMucd2OvIMEA", // update this if you have a real image
+    "https://github.com/sumanthgubbala/Disease-prediction-using-machine-learning/assets/127339877/11b6ec15-a89d-4f7d-8bc6-f8a55e28104e", // update this if you have a real image
   tags: [
     "Python",
     "Streamlit",
@@ -483,7 +483,7 @@ export const projects = [
   description:
     "Developed MCQgenAI, an AI-powered web application that automatically generates multiple-choice questions from educational content. The tool leverages advanced natural language processing and machine learning algorithms to analyze study materials and create high-quality quiz questions along with plausible distractors, streamlining assessment creation. Built using Python, Streamlit, LangChain, and GPT-based models, MCQgenAI empowers educators and learners to efficiently generate practice tests and study aids.",
   image:
-    "https://private-user-images.githubusercontent.com/127339877/343243453-f1196849-dd5e-4d7a-8f64-117c56496e02.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwNDgwNjgsIm5iZiI6MTc0NzA0Nzc2OCwicGF0aCI6Ii8xMjczMzk4NzcvMzQzMjQzNDUzLWYxMTk2ODQ5LWRkNWUtNGQ3YS04ZjY0LTExN2M1NjQ5NmUwMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxMlQxMTAyNDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYzFjOWQ5YWY3MjhjYTQ5ZWI5MjFlZjhmMDM2Yjc0ZmM0ZGM4ZTM1OGI2MTJiN2YwZWRkOTM0YTdmMjkzMzBhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Con1pVp3HFpSwiYHiM-YVSoFS8dPNgBLKjVbDKFpEEE", // update with your actual image link if available
+    "https://github.com/sumanthgubbala/mcqgenai/blob/master/output.jpg", // update with your actual image link if available
   tags: [
     "Python",
     "Streamlit",
@@ -504,7 +504,7 @@ export const projects = [
   description:
     "Designed an interactive Power BI dashboard to visualize global COVID-19 data, enabling users to explore trends in confirmed cases, deaths, and recoveries across countries and time periods. Implemented slicers, filters, and dynamic charts to support real-time analysis and regional comparisons. The dashboard enhances data-driven decision-making through clear, insightful visual storytelling.",
   image:
-    "https://private-user-images.githubusercontent.com/127339877/428063622-f34e56ce-f1a3-4b6a-b9ba-9570b5584053.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwNDgyMzcsIm5iZiI6MTc0NzA0NzkzNywicGF0aCI6Ii8xMjczMzk4NzcvNDI4MDYzNjIyLWYzNGU1NmNlLWYxYTMtNGI2YS1iOWJhLTk1NzBiNTU4NDA1My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxMlQxMTA1MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZjA0OWQzOGU3ZjgwZGQxZmVhZmNkM2Y0MmJlNTNhNjQ2YjRhYzU5YmZkZDQxYWQ2ZmJiYThmYjA5ZmFhNGQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UXFEduVbHttfFS9_orhZWTqc9VLLfvf3-RHhlETbs7I", // replace with actual image link if available
+    "https://github.com/sumanthgubbala/CODTECH_Internship_projects/blob/master/Task%203/output.jpg", // replace with actual image link if available
   tags: [
     "Power BI",
     "Data Visualization",
@@ -591,7 +591,7 @@ export const projects = [
   description:
     "Developed Quiz Hub, a dynamic web application that allows users to take, create, and manage quizzes across multiple categories. The platform supports real-time score tracking, customizable quiz creation, and responsive UI for seamless user experience. Built using React for the frontend, Node.js and Express for the backend, and MongoDB for data storage, enabling efficient management of quiz content and user interactions.",
   image:
-    "https://private-user-images.githubusercontent.com/127339877/442721461-b468ac15-ea59-481a-bcc8-adb03cf69e17.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwNDg4NDMsIm5iZiI6MTc0NzA0ODU0MywicGF0aCI6Ii8xMjczMzk4NzcvNDQyNzIxNDYxLWI0NjhhYzE1LWVhNTktNDgxYS1iY2M4LWFkYjAzY2Y2OWUxNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxMlQxMTE1NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNjBiYzI2Y2M2YjRhMGQ0ZmIwMzJhMWU4ZWNkMTVhMmYyM2NmMWVkZTJkZTY2NzJmN2JhODQ3N2E1YzljN2JiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.EgfH6D73v4F2jVi8d8UC2Hf2TrAV7j5iWGEe60DQ6_I", // update if needed
+    "https://github.com/user-attachments/assets/b468ac15-ea59-481a-bcc8-adb03cf69e17", // update if needed
   tags: [
     "React",
     "Node.js",
