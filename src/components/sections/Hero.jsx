@@ -209,7 +209,7 @@ const HeroBg = styled.div`
 `;
 const Hero = () => {
   return (
-    <div>
+    <div id="About">
       <HeroContainer>
       <HeroBg>
         <StarCanvas />

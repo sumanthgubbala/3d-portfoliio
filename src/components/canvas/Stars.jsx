@@ -5,10 +5,15 @@ import * as random from "maath/random/dist/maath-random.esm";
 import styled from "styled-components";
 
 const StyledCanvasWrapper = styled.div`
+ position: fixed;
+  top: 0;
+  left: 0;
     width: 100%;
     height: auto;
     position: absolute;
     inset: 0;
+    z-index: -1;
+  pointer-events: none;
 `;
 
 
@@ -44,7 +49,7 @@ const Stars = (props) => {
 const StyledStarsCanvas = () => {
     return (
         <StyledCanvasWrapper>
-        <Canvas camera={{ position: [0, 0, 1] }}>
+        <Canvas camera={{ position: [0, 0, 1] }} >
             <Suspense fallback={null}>
             <Stars />
             </Suspense>
