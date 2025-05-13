@@ -68,6 +68,8 @@ const HeroRightContainer = styled.div`
   }
   @media (max-width: 640px) {
     margin-bottom: 30px;
+    padding:10px;
+    padding-left:50px;
   }
 `;
 const Title = styled.div`
